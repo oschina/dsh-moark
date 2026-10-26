@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MoArk Provider",
+    "description": "Connect MoArk (模力方舟) as a DSH model provider: paste a token, pick models, write and verify the route with one click, and roll back on failure."
+  }
+}

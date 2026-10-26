@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "模力方舟 · MoArk",
+    "description": "把 MoArk（模力方舟）接入为 DSH 模型 Provider：填写令牌、选择模型、一键写入并验证，失败可回滚。"
+  }
+}
