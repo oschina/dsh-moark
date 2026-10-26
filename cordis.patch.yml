@@ -1,0 +1,7 @@
+# dsh-moark bundle patch
+#
+# 只插入本插件一行。Provider 路由不在这里写：llm-pi-ai 的 config 是整体替换语义，
+# 由插件在用户确认后通过 configEditor / settings 写入现有 llm-pi-ai 行。
+- insert:
+    - id: moark
+      name: dsh-moark
