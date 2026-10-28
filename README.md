@@ -3,8 +3,8 @@
   <p align="center">
   把 <a target="blank" href="https://moark.com">模力方舟 (MoArk)</a> 接入 <a target="blank" href="https://github.com/deepseek-ai">DeepSeek Harness</a>
   </p>
+  <img src="./assets/banner.svg" />
 </div>
-
 
 ## 要求
 
