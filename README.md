@@ -6,6 +6,8 @@
   <img src="./assets/banner.svg" />
 </div>
 
+<p align="center"><strong>简体中文</strong> | <a href="./README.en.md">English</a></p>
+
 ## 要求
 
 - DeepSeek Harness `0.2.1-rc.2` 或兼容的 `0.2.x`
